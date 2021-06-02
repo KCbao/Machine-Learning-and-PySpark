@@ -61,6 +61,18 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+# Dataset
+Jupyter-Notebooks-and-Datasets/Machine-Learning/Datasets
+Jupyter-Notebooks-and-Datasets/PySpark-DataFrame-Essentials/Datasets
+Jupyter-Notebooks-and-Datasets/PySpark-DataFrame-Essentials/parquet
+Jupyter-Notebooks-and-Datasets/PySpark-DataFrame-Essentials/part_parquet
+Jupyter-Notebooks-and-Datasets/PySpark-DataFrame-Essentials/.write_test2.csv.crc
+Jupyter-Notebooks-and-Datasets/PySpark-DataFrame-Essentials/write_test.csv
+
+# VS
+Jupyter-Notebooks-and-Datasets/Machine-Learning/.DS_Store
+Jupyter-Notebooks-and-Datasets/PySpark-DataFrame-Essentials/.DS_Store
+.vscode
 # Flask stuff:
 instance/
 .webassets-cache
